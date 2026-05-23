@@ -1,0 +1,437 @@
+{
+  "banco": "BANESTES S.A. BANCO DO ESTADO DO ESPIRITO SANTO",
+  "compe": "021",
+  "total": 86,
+  "agencias": [
+    {
+      "codigo": "00038",
+      "bairro": "CENTRO",
+      "municipio": "IRUPI"
+    },
+    {
+      "codigo": "00044",
+      "bairro": "JARDIM CAMBURI",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00049",
+      "bairro": "CENTRO",
+      "municipio": "MARECHAL FLORIANO"
+    },
+    {
+      "codigo": "00051",
+      "bairro": "MARUIPE",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00059",
+      "bairro": "PARQUE RESIDENCIAL LARANJEIRAS",
+      "municipio": "SERRA"
+    },
+    {
+      "codigo": "00062",
+      "bairro": "ARACE",
+      "municipio": "DOMINGOS MARTINS"
+    },
+    {
+      "codigo": "00076",
+      "bairro": "PRAIA DO SUA",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00083",
+      "bairro": "JARDIM DA PENHA",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00087",
+      "bairro": "ITACIBA",
+      "municipio": "CARIACICA"
+    },
+    {
+      "codigo": "00090",
+      "bairro": "JACARAIPE",
+      "municipio": "SERRA"
+    },
+    {
+      "codigo": "00091",
+      "bairro": "CENTRO",
+      "municipio": "VILA VELHA"
+    },
+    {
+      "codigo": "00092",
+      "bairro": "CENTRO",
+      "municipio": "VIANA"
+    },
+    {
+      "codigo": "00101",
+      "bairro": "GLORIA",
+      "municipio": "VILA VELHA"
+    },
+    {
+      "codigo": "00102",
+      "bairro": "ITAQUARI",
+      "municipio": "CARIACICA"
+    },
+    {
+      "codigo": "00104",
+      "bairro": "CENTRO",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00105",
+      "bairro": "CAMPO GRANDE",
+      "municipio": "CARIACICA"
+    },
+    {
+      "codigo": "00106",
+      "bairro": "NAZARETH",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00107",
+      "bairro": "PLANALTO CARAPINA",
+      "municipio": "SERRA"
+    },
+    {
+      "codigo": "00108",
+      "bairro": "PRAIA DO CANTO",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00109",
+      "bairro": "CENTRO",
+      "municipio": "SANTA LEOPOLDINA"
+    },
+    {
+      "codigo": "00110",
+      "bairro": "CENTRO",
+      "municipio": "SERRA"
+    },
+    {
+      "codigo": "00111",
+      "bairro": "CENTRO",
+      "municipio": "ARACRUZ"
+    },
+    {
+      "codigo": "00113",
+      "bairro": "CENTRO",
+      "municipio": "BARRA DE SAO FRANCISCO"
+    },
+    {
+      "codigo": "00114",
+      "bairro": "CENTRO",
+      "municipio": "BOM JESUS DO NORTE"
+    },
+    {
+      "codigo": "00115",
+      "bairro": "CENTRO",
+      "municipio": "CACHOEIRO DE ITAPEMIRIM"
+    },
+    {
+      "codigo": "00116",
+      "bairro": "CENTRO",
+      "municipio": "CASTELO"
+    },
+    {
+      "codigo": "00117",
+      "bairro": "CENTRO",
+      "municipio": "COLATINA"
+    },
+    {
+      "codigo": "00119",
+      "bairro": "CENTRO",
+      "municipio": "DOMINGOS MARTINS"
+    },
+    {
+      "codigo": "00121",
+      "bairro": "CENTRO",
+      "municipio": "GUACUI"
+    },
+    {
+      "codigo": "00122",
+      "bairro": "CENTRO",
+      "municipio": "ITARANA"
+    },
+    {
+      "codigo": "00123",
+      "bairro": "CENTRO",
+      "municipio": "IUNA"
+    },
+    {
+      "codigo": "00124",
+      "bairro": "CENTRO",
+      "municipio": "LINHARES"
+    },
+    {
+      "codigo": "00125",
+      "bairro": "CENTRO",
+      "municipio": "MIMOSO DO SUL"
+    },
+    {
+      "codigo": "00127",
+      "bairro": "CENTRO",
+      "municipio": "MUNIZ FREIRE"
+    },
+    {
+      "codigo": "00128",
+      "bairro": "CENTRO",
+      "municipio": "MUQUI"
+    },
+    {
+      "codigo": "00129",
+      "bairro": "CENTRO",
+      "municipio": "NOVA VENECIA"
+    },
+    {
+      "codigo": "00130",
+      "bairro": "CENTRO",
+      "municipio": "PINHEIROS"
+    },
+    {
+      "codigo": "00132",
+      "bairro": "CENTRO",
+      "municipio": "SANTA MARIA DE JETIBA"
+    },
+    {
+      "codigo": "00134",
+      "bairro": "CENTRO",
+      "municipio": "SAO JOSE DO CALCADO"
+    },
+    {
+      "codigo": "00135",
+      "bairro": "CENTRO",
+      "municipio": "SAO MATEUS"
+    },
+    {
+      "codigo": "00136",
+      "bairro": "SAO SILVANO",
+      "municipio": "COLATINA"
+    },
+    {
+      "codigo": "00137",
+      "bairro": "CENTRO",
+      "municipio": "AFONSO CLAUDIO"
+    },
+    {
+      "codigo": "00138",
+      "bairro": "CENTRO",
+      "municipio": "ALEGRE"
+    },
+    {
+      "codigo": "00139",
+      "bairro": "CENTRO",
+      "municipio": "ALFREDO CHAVES"
+    },
+    {
+      "codigo": "00140",
+      "bairro": "CENTRO",
+      "municipio": "JERONIMO MONTEIRO"
+    },
+    {
+      "codigo": "00141",
+      "bairro": "CENTRO",
+      "municipio": "MANTENOPOLIS"
+    },
+    {
+      "codigo": "00142",
+      "bairro": "CENTRO",
+      "municipio": "PANCAS"
+    },
+    {
+      "codigo": "00143",
+      "bairro": "CENTRO",
+      "municipio": "APIACA"
+    },
+    {
+      "codigo": "00144",
+      "bairro": "CENTRO",
+      "municipio": "ATILIO VIVACQUA"
+    },
+    {
+      "codigo": "00146",
+      "bairro": "CENTRO",
+      "municipio": "CONCEICAO DO CASTELO"
+    },
+    {
+      "codigo": "00148",
+      "bairro": "CENTRO",
+      "municipio": "IBIRACU"
+    },
+    {
+      "codigo": "00152",
+      "bairro": "CENTRO",
+      "municipio": "PEDRO CANARIO"
+    },
+    {
+      "codigo": "00153",
+      "bairro": "CENTRO",
+      "municipio": "PIUMA"
+    },
+    {
+      "codigo": "00156",
+      "bairro": "CENTRO",
+      "municipio": "ANCHIETA"
+    },
+    {
+      "codigo": "00157",
+      "bairro": "ILMENITA",
+      "municipio": "MARATAIZES"
+    },
+    {
+      "codigo": "00158",
+      "bairro": "CENTRO",
+      "municipio": "SANTA TERESA"
+    },
+    {
+      "codigo": "00159",
+      "bairro": "SANTO ANTONIO",
+      "municipio": "RIO BANANAL"
+    },
+    {
+      "codigo": "00160",
+      "bairro": "CONSOLAÇÃO",
+      "municipio": "SAO PAULO"
+    },
+    {
+      "codigo": "00161",
+      "bairro": "CENTRO",
+      "municipio": "RIO NOVO DO SUL"
+    },
+    {
+      "codigo": "00162",
+      "bairro": "CENTRO",
+      "municipio": "PRESIDENTE KENNEDY"
+    },
+    {
+      "codigo": "00164",
+      "bairro": "CENTRO",
+      "municipio": "IBATIBA"
+    },
+    {
+      "codigo": "00166",
+      "bairro": "CENTRO",
+      "municipio": "FUNDAO"
+    },
+    {
+      "codigo": "00168",
+      "bairro": "CENTRO",
+      "municipio": "DORES DO RIO PRETO"
+    },
+    {
+      "codigo": "00173",
+      "bairro": "CENTRO",
+      "municipio": "JOAO NEIVA"
+    },
+    {
+      "codigo": "00174",
+      "bairro": "CENTRO",
+      "municipio": "GUARAPARI"
+    },
+    {
+      "codigo": "00176",
+      "bairro": "CENTRO",
+      "municipio": "JAGUARE"
+    },
+    {
+      "codigo": "00177",
+      "bairro": "ESPLANADA",
+      "municipio": "VENDA NOVA DO IMIGRANTE"
+    },
+    {
+      "codigo": "00182",
+      "bairro": "CENTRO",
+      "municipio": "AGUA DOCE DO NORTE"
+    },
+    {
+      "codigo": "00183",
+      "bairro": "COBILANDIA",
+      "municipio": "VILA VELHA"
+    },
+    {
+      "codigo": "00187",
+      "bairro": "CENTRO",
+      "municipio": "VARGEM ALTA"
+    },
+    {
+      "codigo": "00188",
+      "bairro": "SAO ROQUINHO",
+      "municipio": "SAO ROQUE DO CANAA"
+    },
+    {
+      "codigo": "00199",
+      "bairro": "CENTRO",
+      "municipio": "ITAPEMIRIM"
+    },
+    {
+      "codigo": "00208",
+      "bairro": "COQUEIRAL DE ITAPARICA",
+      "municipio": "VILA VELHA"
+    },
+    {
+      "codigo": "00236",
+      "bairro": "BENTO FERREIRA",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00271",
+      "bairro": "ENSEADA DO SUA",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00274",
+      "bairro": "SANTA LUCIA",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00276",
+      "bairro": "SAO JOSE",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00278",
+      "bairro": "CENTRO",
+      "municipio": "SOORETAMA"
+    },
+    {
+      "codigo": "00279",
+      "bairro": "CENTRO",
+      "municipio": "BREJETUBA"
+    },
+    {
+      "codigo": "00552",
+      "bairro": "CIVIT II",
+      "municipio": "SERRA"
+    },
+    {
+      "codigo": "00601",
+      "bairro": "CAMPO GRANDE",
+      "municipio": "CARIACICA"
+    },
+    {
+      "codigo": "00609",
+      "bairro": "ENSEADA DO SUÁ",
+      "municipio": "VITORIA"
+    },
+    {
+      "codigo": "00674",
+      "bairro": "CENTRO",
+      "municipio": "LINHARES"
+    },
+    {
+      "codigo": "00681",
+      "bairro": "CENTRO",
+      "municipio": "CACHOEIRO DE ITAPEMIRIM"
+    },
+    {
+      "codigo": "00685",
+      "bairro": "PRAIA DA COSTA",
+      "municipio": "VILA VELHA"
+    },
+    {
+      "codigo": null,
+      "bairro": "CENTRO",
+      "municipio": "VITORIA"
+    }
+  ]
+}
