@@ -1,0 +1,1932 @@
+[
+  {
+    "iso2": "AF",
+    "iso3": "AFG",
+    "m49": 4,
+    "nome": "Afeganistão",
+    "nomeEN": "Afghanistan",
+    "nomeES": "Afganistán",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "m49": 710,
+    "nome": "África do Sul",
+    "nomeEN": "South Africa",
+    "nomeES": "Sudáfrica",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "AL",
+    "iso3": "ALB",
+    "m49": 8,
+    "nome": "Albânia",
+    "nomeEN": "Albania",
+    "nomeES": "Albania",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "DE",
+    "iso3": "DEU",
+    "m49": 276,
+    "nome": "Alemanha",
+    "nomeEN": "Germany",
+    "nomeES": "Alemania",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "AD",
+    "iso3": "AND",
+    "m49": 20,
+    "nome": "Andorra",
+    "nomeEN": "Andorra",
+    "nomeES": "Andorra",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "AO",
+    "iso3": "AGO",
+    "m49": 24,
+    "nome": "Angola",
+    "nomeEN": "Angola",
+    "nomeES": "Angola",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "AG",
+    "iso3": "ATG",
+    "m49": 28,
+    "nome": "Antígua e Barbuda",
+    "nomeEN": "Antigua and Barbuda",
+    "nomeES": "Antigua y Barbuda",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "SA",
+    "iso3": "SAU",
+    "m49": 682,
+    "nome": "Arábia Saudita",
+    "nomeEN": "Saudi Arabia",
+    "nomeES": "Arabia Saudita",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "m49": 12,
+    "nome": "Argélia",
+    "nomeEN": "Algeria",
+    "nomeES": "Argelia",
+    "subRegiao": "África setentrional (Norte da África)",
+    "regiao": "África"
+  },
+  {
+    "iso2": "AR",
+    "iso3": "ARG",
+    "m49": 32,
+    "nome": "Argentina",
+    "nomeEN": "Argentina",
+    "nomeES": "Argentina",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "AM",
+    "iso3": "ARM",
+    "m49": 51,
+    "nome": "Armênia",
+    "nomeEN": "Armenia",
+    "nomeES": "Armenia",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "AU",
+    "iso3": "AUS",
+    "m49": 36,
+    "nome": "Austrália",
+    "nomeEN": "Australia",
+    "nomeES": "Australia",
+    "subRegiao": "Austrália e Nova Zelândia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "AT",
+    "iso3": "AUT",
+    "m49": 40,
+    "nome": "Áustria",
+    "nomeEN": "Austria",
+    "nomeES": "Austria",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "m49": 31,
+    "nome": "Azerbaijão",
+    "nomeEN": "Azerbaijan",
+    "nomeES": "Azerbaiyán",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "BS",
+    "iso3": "BHS",
+    "m49": 44,
+    "nome": "Bahamas",
+    "nomeEN": "Bahamas",
+    "nomeES": "Bahamas",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "BD",
+    "iso3": "BGD",
+    "m49": 50,
+    "nome": "Bangladesh",
+    "nomeEN": "Bangladesh",
+    "nomeES": "Bangladesh",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "BB",
+    "iso3": "BRB",
+    "m49": 52,
+    "nome": "Barbados",
+    "nomeEN": "Barbados",
+    "nomeES": "Barbados",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "BH",
+    "iso3": "BHR",
+    "m49": 48,
+    "nome": "Barein",
+    "nomeEN": "Bahrain",
+    "nomeES": "Bahrein",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "BY",
+    "iso3": "BLR",
+    "m49": 112,
+    "nome": "Belarus",
+    "nomeEN": "Belarus",
+    "nomeES": "Belarús",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "BE",
+    "iso3": "BEL",
+    "m49": 56,
+    "nome": "Bélgica",
+    "nomeEN": "Belgium",
+    "nomeES": "Bélgica",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "m49": 84,
+    "nome": "Belize",
+    "nomeEN": "Belize",
+    "nomeES": "Belice",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "m49": 204,
+    "nome": "Benin",
+    "nomeEN": "Benin",
+    "nomeES": "Benin",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "BO",
+    "iso3": "BOL",
+    "m49": 68,
+    "nome": "Bolívia",
+    "nomeEN": "Bolivia",
+    "nomeES": "Bolivia",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "BA",
+    "iso3": "BIH",
+    "m49": 70,
+    "nome": "Bósnia e Herzegovina",
+    "nomeEN": "Bosnia and Herzegovina",
+    "nomeES": "Bosnia y Herzegovina",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "BW",
+    "iso3": "BWA",
+    "m49": 72,
+    "nome": "Botsuana",
+    "nomeEN": "Botswana",
+    "nomeES": "Botswana",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "BR",
+    "iso3": "BRA",
+    "m49": 76,
+    "nome": "Brasil",
+    "nomeEN": "Brazil",
+    "nomeES": "Brasil",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "BN",
+    "iso3": "BRN",
+    "m49": 96,
+    "nome": "Brunei",
+    "nomeEN": "Brunei Darussalam",
+    "nomeES": "Brunei Darussalam",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "BG",
+    "iso3": "BGR",
+    "m49": 100,
+    "nome": "Bulgária",
+    "nomeEN": "Bulgaria",
+    "nomeES": "Bulgaria",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "BF",
+    "iso3": "BFA",
+    "m49": 854,
+    "nome": "Burkina Faso",
+    "nomeEN": "Burkina Faso",
+    "nomeES": "Burkina Faso",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "BI",
+    "iso3": "BDI",
+    "m49": 108,
+    "nome": "Burundi",
+    "nomeEN": "Burundi",
+    "nomeES": "Burundi",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "BT",
+    "iso3": "BTN",
+    "m49": 64,
+    "nome": "Butão",
+    "nomeEN": "Bhutan",
+    "nomeES": "Bhután",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "CV",
+    "iso3": "CPV",
+    "m49": 132,
+    "nome": "Cabo Verde",
+    "nomeEN": "Cabo Verde",
+    "nomeES": "Cabo Verde",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "CM",
+    "iso3": "CMR",
+    "m49": 120,
+    "nome": "Camarões",
+    "nomeEN": "Cameroon",
+    "nomeES": "Camerún",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "KH",
+    "iso3": "KHM",
+    "m49": 116,
+    "nome": "Camboja",
+    "nomeEN": "Cambodia",
+    "nomeES": "Camboya",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "CA",
+    "iso3": "CAN",
+    "m49": 124,
+    "nome": "Canadá",
+    "nomeEN": "Canada",
+    "nomeES": "Canadá",
+    "subRegiao": "América do Norte",
+    "regiao": "América"
+  },
+  {
+    "iso2": "QA",
+    "iso3": "QAT",
+    "m49": 634,
+    "nome": "Catar",
+    "nomeEN": "Qatar",
+    "nomeES": "Qatar",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "m49": 398,
+    "nome": "Cazaquistão",
+    "nomeEN": "Kazakhstan",
+    "nomeES": "Kazajstán",
+    "subRegiao": "Ásia central",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "TD",
+    "iso3": "TCD",
+    "m49": 148,
+    "nome": "Chade",
+    "nomeEN": "Chad",
+    "nomeES": "Chad",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "CL",
+    "iso3": "CHL",
+    "m49": 152,
+    "nome": "Chile",
+    "nomeEN": "Chile",
+    "nomeES": "Chile",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "CN",
+    "iso3": "CHN",
+    "m49": 156,
+    "nome": "China",
+    "nomeEN": "China",
+    "nomeES": "China",
+    "subRegiao": "Ásia oriental (Leste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "CY",
+    "iso3": "CYP",
+    "m49": 196,
+    "nome": "Chipre",
+    "nomeEN": "Cyprus",
+    "nomeES": "Chipre",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "CO",
+    "iso3": "COL",
+    "m49": 170,
+    "nome": "Colômbia",
+    "nomeEN": "Colombia",
+    "nomeES": "Colombia",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "KM",
+    "iso3": "COM",
+    "m49": 174,
+    "nome": "Comores",
+    "nomeEN": "Comoros",
+    "nomeES": "Comoras",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "CI",
+    "iso3": "CIV",
+    "m49": 384,
+    "nome": "Costa do Marfim",
+    "nomeEN": "Côte d'Ivoire",
+    "nomeES": "Côte d'Ivoire",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "CR",
+    "iso3": "CRI",
+    "m49": 188,
+    "nome": "Costa Rica",
+    "nomeEN": "Costa Rica",
+    "nomeES": "Costa Rica",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "HR",
+    "iso3": "HRV",
+    "m49": 191,
+    "nome": "Croácia",
+    "nomeEN": "Croatia",
+    "nomeES": "Croacia",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "CU",
+    "iso3": "CUB",
+    "m49": 192,
+    "nome": "Cuba",
+    "nomeEN": "Cuba",
+    "nomeES": "Cuba",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "DK",
+    "iso3": "DNK",
+    "m49": 208,
+    "nome": "Dinamarca",
+    "nomeEN": "Denmark",
+    "nomeES": "Dinamarca",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "m49": 262,
+    "nome": "Djibouti",
+    "nomeEN": "Djibouti",
+    "nomeES": "Djibouti",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "DM",
+    "iso3": "DMA",
+    "m49": 212,
+    "nome": "Dominica",
+    "nomeEN": "Dominica",
+    "nomeES": "Dominica",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "EG",
+    "iso3": "EGY",
+    "m49": 818,
+    "nome": "Egito",
+    "nomeEN": "Egypt",
+    "nomeES": "Egipto",
+    "subRegiao": "África setentrional (Norte da África)",
+    "regiao": "África"
+  },
+  {
+    "iso2": "SV",
+    "iso3": "SLV",
+    "m49": 222,
+    "nome": "El Salvador",
+    "nomeEN": "El Salvador",
+    "nomeES": "El Salvador",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "AE",
+    "iso3": "ARE",
+    "m49": 784,
+    "nome": "Emirados Árabes Unidos",
+    "nomeEN": "United Arab Emirates",
+    "nomeES": "Emiratos Árabes Unidos",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "EC",
+    "iso3": "ECU",
+    "m49": 218,
+    "nome": "Equador",
+    "nomeEN": "Ecuador",
+    "nomeES": "Ecuador",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "ER",
+    "iso3": "ERI",
+    "m49": 232,
+    "nome": "Eritreia",
+    "nomeEN": "Eritrea",
+    "nomeES": "Eritrea",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "SK",
+    "iso3": "SVK",
+    "m49": 703,
+    "nome": "Eslováquia",
+    "nomeEN": "Slovakia",
+    "nomeES": "Eslovaquia",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "SI",
+    "iso3": "SVN",
+    "m49": 705,
+    "nome": "Eslovênia",
+    "nomeEN": "Slovenia",
+    "nomeES": "Eslovenia",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "ES",
+    "iso3": "ESP",
+    "m49": 724,
+    "nome": "Espanha",
+    "nomeEN": "Spain",
+    "nomeES": "España",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "US",
+    "iso3": "USA",
+    "m49": 840,
+    "nome": "Estados Unidos da América",
+    "nomeEN": "United States of America",
+    "nomeES": "Estados Unidos de América",
+    "subRegiao": "América do Norte",
+    "regiao": "América"
+  },
+  {
+    "iso2": "EE",
+    "iso3": "EST",
+    "m49": 233,
+    "nome": "Estônia",
+    "nomeEN": "Estonia",
+    "nomeES": "Estonia",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "m49": 748,
+    "nome": "Eswatini",
+    "nomeEN": "Eswatini",
+    "nomeES": "Eswatini",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "ET",
+    "iso3": "ETH",
+    "m49": 231,
+    "nome": "Etiópia",
+    "nomeEN": "Ethiopia",
+    "nomeES": "Etiopía",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "m49": 242,
+    "nome": "Fiji",
+    "nomeEN": "Fiji",
+    "nomeES": "Fiji",
+    "subRegiao": "Melanésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "PH",
+    "iso3": "PHL",
+    "m49": 608,
+    "nome": "Filipinas",
+    "nomeEN": "Philippines",
+    "nomeES": "Filipinas",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "FI",
+    "iso3": "FIN",
+    "m49": 246,
+    "nome": "Finlândia",
+    "nomeEN": "Finland",
+    "nomeES": "Finlandia",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "FR",
+    "iso3": "FRA",
+    "m49": 250,
+    "nome": "França",
+    "nomeEN": "France",
+    "nomeES": "Francia",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "GA",
+    "iso3": "GAB",
+    "m49": 266,
+    "nome": "Gabão",
+    "nomeEN": "Gabon",
+    "nomeES": "Gabón",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "GM",
+    "iso3": "GMB",
+    "m49": 270,
+    "nome": "Gâmbia",
+    "nomeEN": "Gambia",
+    "nomeES": "Gambia",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "GH",
+    "iso3": "GHA",
+    "m49": 288,
+    "nome": "Gana",
+    "nomeEN": "Ghana",
+    "nomeES": "Ghana",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "GE",
+    "iso3": "GEO",
+    "m49": 268,
+    "nome": "Geórgia",
+    "nomeEN": "Georgia",
+    "nomeES": "Georgia",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "GD",
+    "iso3": "GRD",
+    "m49": 308,
+    "nome": "Granada",
+    "nomeEN": "Grenada",
+    "nomeES": "Granada",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "GR",
+    "iso3": "GRC",
+    "m49": 300,
+    "nome": "Grécia",
+    "nomeEN": "Greece",
+    "nomeES": "Grecia",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "GT",
+    "iso3": "GTM",
+    "m49": 320,
+    "nome": "Guatemala",
+    "nomeEN": "Guatemala",
+    "nomeES": "Guatemala",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "GY",
+    "iso3": "GUY",
+    "m49": 328,
+    "nome": "Guiana",
+    "nomeEN": "Guyana",
+    "nomeES": "Guyana",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "GN",
+    "iso3": "GIN",
+    "m49": 324,
+    "nome": "Guiné",
+    "nomeEN": "Guinea",
+    "nomeES": "Guinea",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "m49": 226,
+    "nome": "Guiné Equatorial",
+    "nomeEN": "Equatorial Guinea",
+    "nomeES": "Guinea Ecuatorial",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "GW",
+    "iso3": "GNB",
+    "m49": 624,
+    "nome": "Guiné-Bissau",
+    "nomeEN": "Guinea-Bissau",
+    "nomeES": "Guinea-Bissau",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "HT",
+    "iso3": "HTI",
+    "m49": 332,
+    "nome": "Haiti",
+    "nomeEN": "Haiti",
+    "nomeES": "Haití",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "HN",
+    "iso3": "HND",
+    "m49": 340,
+    "nome": "Honduras",
+    "nomeEN": "Honduras",
+    "nomeES": "Honduras",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "HU",
+    "iso3": "HUN",
+    "m49": 348,
+    "nome": "Hungria",
+    "nomeEN": "Hungary",
+    "nomeES": "Hungría",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "YE",
+    "iso3": "YEM",
+    "m49": 887,
+    "nome": "Iêmen",
+    "nomeEN": "Yemen",
+    "nomeES": "Yemen",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "MH",
+    "iso3": "MHL",
+    "m49": 584,
+    "nome": "Ilhas Marshall",
+    "nomeEN": "Marshall Islands",
+    "nomeES": "Islas Marshall",
+    "subRegiao": "Micronésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "SB",
+    "iso3": "SLB",
+    "m49": 90,
+    "nome": "Ilhas Salomão",
+    "nomeEN": "Solomon Islands",
+    "nomeES": "Islas Salomón",
+    "subRegiao": "Melanésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "IN",
+    "iso3": "IND",
+    "m49": 356,
+    "nome": "Índia",
+    "nomeEN": "India",
+    "nomeES": "India",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "ID",
+    "iso3": "IDN",
+    "m49": 360,
+    "nome": "Indonésia",
+    "nomeEN": "Indonesia",
+    "nomeES": "Indonesia",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "IR",
+    "iso3": "IRN",
+    "m49": 364,
+    "nome": "Irã",
+    "nomeEN": "Iran",
+    "nomeES": "Irán",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "m49": 368,
+    "nome": "Iraque",
+    "nomeEN": "Iraq",
+    "nomeES": "Iraq",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "IE",
+    "iso3": "IRL",
+    "m49": 372,
+    "nome": "Irlanda",
+    "nomeEN": "Ireland",
+    "nomeES": "Irlanda",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "IS",
+    "iso3": "ISL",
+    "m49": 352,
+    "nome": "Islândia",
+    "nomeEN": "Iceland",
+    "nomeES": "Islandia",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "IL",
+    "iso3": "ISR",
+    "m49": 376,
+    "nome": "Israel",
+    "nomeEN": "Israel",
+    "nomeES": "Israel",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "IT",
+    "iso3": "ITA",
+    "m49": 380,
+    "nome": "Itália",
+    "nomeEN": "Italy",
+    "nomeES": "Italia",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "JM",
+    "iso3": "JAM",
+    "m49": 388,
+    "nome": "Jamaica",
+    "nomeEN": "Jamaica",
+    "nomeES": "Jamaica",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "JP",
+    "iso3": "JPN",
+    "m49": 392,
+    "nome": "Japão",
+    "nomeEN": "Japan",
+    "nomeES": "Japón",
+    "subRegiao": "Ásia oriental (Leste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "JO",
+    "iso3": "JOR",
+    "m49": 400,
+    "nome": "Jordânia",
+    "nomeEN": "Jordan",
+    "nomeES": "Jordania",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "KI",
+    "iso3": "KIR",
+    "m49": 296,
+    "nome": "Kiribati",
+    "nomeEN": "Kiribati",
+    "nomeES": "Kiribati",
+    "subRegiao": "Micronésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "KW",
+    "iso3": "KWT",
+    "m49": 414,
+    "nome": "Kuwait",
+    "nomeEN": "Kuwait",
+    "nomeES": "Kuwait",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "LA",
+    "iso3": "LAO",
+    "m49": 418,
+    "nome": "Laos",
+    "nomeEN": "Lao People's Democratic Republic",
+    "nomeES": "República Democrática Popular Lao",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "LS",
+    "iso3": "LSO",
+    "m49": 426,
+    "nome": "Lesoto",
+    "nomeEN": "Lesotho",
+    "nomeES": "Lesotho",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "LV",
+    "iso3": "LVA",
+    "m49": 428,
+    "nome": "Letônia",
+    "nomeEN": "Latvia",
+    "nomeES": "Letonia",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "LB",
+    "iso3": "LBN",
+    "m49": 422,
+    "nome": "Líbano",
+    "nomeEN": "Lebanon",
+    "nomeES": "Líbano",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "LR",
+    "iso3": "LBR",
+    "m49": 430,
+    "nome": "Libéria",
+    "nomeEN": "Liberia",
+    "nomeES": "Liberia",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "LY",
+    "iso3": "LBY",
+    "m49": 434,
+    "nome": "Líbia",
+    "nomeEN": "Libya",
+    "nomeES": "Libia",
+    "subRegiao": "África setentrional (Norte da África)",
+    "regiao": "África"
+  },
+  {
+    "iso2": "LI",
+    "iso3": "LIE",
+    "m49": 438,
+    "nome": "Liechtenstein",
+    "nomeEN": "Liechtenstein",
+    "nomeES": "Liechtenstein",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "LT",
+    "iso3": "LTU",
+    "m49": 440,
+    "nome": "Lituânia",
+    "nomeEN": "Lithuania",
+    "nomeES": "Lituania",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "LU",
+    "iso3": "LUX",
+    "m49": 442,
+    "nome": "Luxemburgo",
+    "nomeEN": "Luxembourg",
+    "nomeES": "Luxemburgo",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "MK",
+    "iso3": "MKD",
+    "m49": 807,
+    "nome": "Macedônia do Norte",
+    "nomeEN": "North Macedonia",
+    "nomeES": "Macedonia del Norte",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "MG",
+    "iso3": "MDG",
+    "m49": 450,
+    "nome": "Madagascar",
+    "nomeEN": "Madagascar",
+    "nomeES": "Madagascar",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "MY",
+    "iso3": "MYS",
+    "m49": 458,
+    "nome": "Malásia",
+    "nomeEN": "Malaysia",
+    "nomeES": "Malasia",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "MW",
+    "iso3": "MWI",
+    "m49": 454,
+    "nome": "Malauí",
+    "nomeEN": "Malawi",
+    "nomeES": "Malawi",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "MV",
+    "iso3": "MDV",
+    "m49": 462,
+    "nome": "Maldivas",
+    "nomeEN": "Maldives",
+    "nomeES": "Maldivas",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "ML",
+    "iso3": "MLI",
+    "m49": 466,
+    "nome": "Mali",
+    "nomeEN": "Mali",
+    "nomeES": "Malí",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "MT",
+    "iso3": "MLT",
+    "m49": 470,
+    "nome": "Malta",
+    "nomeEN": "Malta",
+    "nomeES": "Malta",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "MA",
+    "iso3": "MAR",
+    "m49": 504,
+    "nome": "Marrocos",
+    "nomeEN": "Morocco",
+    "nomeES": "Marruecos",
+    "subRegiao": "África setentrional (Norte da África)",
+    "regiao": "África"
+  },
+  {
+    "iso2": "MU",
+    "iso3": "MUS",
+    "m49": 480,
+    "nome": "Maurício",
+    "nomeEN": "Mauritius",
+    "nomeES": "Mauricio",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "MR",
+    "iso3": "MRT",
+    "m49": 478,
+    "nome": "Mauritânia",
+    "nomeEN": "Mauritania",
+    "nomeES": "Mauritania",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "MX",
+    "iso3": "MEX",
+    "m49": 484,
+    "nome": "México",
+    "nomeEN": "Mexico",
+    "nomeES": "México",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "MM",
+    "iso3": "MMR",
+    "m49": 104,
+    "nome": "Mianmar",
+    "nomeEN": "Myanmar",
+    "nomeES": "Myanmar",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "FM",
+    "iso3": "FSM",
+    "m49": 583,
+    "nome": "Micronésia",
+    "nomeEN": "Micronesia",
+    "nomeES": "Micronesia",
+    "subRegiao": "Micronésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "m49": 508,
+    "nome": "Moçambique",
+    "nomeEN": "Mozambique",
+    "nomeES": "Mozambique",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "MD",
+    "iso3": "MDA",
+    "m49": 498,
+    "nome": "Moldávia",
+    "nomeEN": "Republic of Moldova",
+    "nomeES": "República de Moldova",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "MC",
+    "iso3": "MCO",
+    "m49": 492,
+    "nome": "Mônaco",
+    "nomeEN": "Monaco",
+    "nomeES": "Mónaco",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "MN",
+    "iso3": "MNG",
+    "m49": 496,
+    "nome": "Mongólia",
+    "nomeEN": "Mongolia",
+    "nomeES": "Mongolia",
+    "subRegiao": "Ásia oriental (Leste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "ME",
+    "iso3": "MNE",
+    "m49": 499,
+    "nome": "Montenegro",
+    "nomeEN": "Montenegro",
+    "nomeES": "Montenegro",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "NA",
+    "iso3": "NAM",
+    "m49": 516,
+    "nome": "Namíbia",
+    "nomeEN": "Namibia",
+    "nomeES": "Namibia",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "NR",
+    "iso3": "NRU",
+    "m49": 520,
+    "nome": "Nauru",
+    "nomeEN": "Nauru",
+    "nomeES": "Nauru",
+    "subRegiao": "Micronésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "NP",
+    "iso3": "NPL",
+    "m49": 524,
+    "nome": "Nepal",
+    "nomeEN": "Nepal",
+    "nomeES": "Nepal",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "NI",
+    "iso3": "NIC",
+    "m49": 558,
+    "nome": "Nicarágua",
+    "nomeEN": "Nicaragua",
+    "nomeES": "Nicaragua",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "NE",
+    "iso3": "NER",
+    "m49": 562,
+    "nome": "Niger",
+    "nomeEN": "Niger",
+    "nomeES": "Níger",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "NG",
+    "iso3": "NGA",
+    "m49": 566,
+    "nome": "Nigéria",
+    "nomeEN": "Nigeria",
+    "nomeES": "Nigeria",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "NO",
+    "iso3": "NOR",
+    "m49": 578,
+    "nome": "Noruega",
+    "nomeEN": "Norway",
+    "nomeES": "Noruega",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "m49": 554,
+    "nome": "Nova Zelândia",
+    "nomeEN": "New Zealand",
+    "nomeES": "Nueva Zelandia",
+    "subRegiao": "Austrália e Nova Zelândia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "OM",
+    "iso3": "OMN",
+    "m49": 512,
+    "nome": "Omã",
+    "nomeEN": "Oman",
+    "nomeES": "Omán",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "NL",
+    "iso3": "NLD",
+    "m49": 528,
+    "nome": "Países Baixos",
+    "nomeEN": "Netherlands",
+    "nomeES": "Países Bajos",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "PW",
+    "iso3": "PLW",
+    "m49": 585,
+    "nome": "Palau",
+    "nomeEN": "Palau",
+    "nomeES": "Palau",
+    "subRegiao": "Micronésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "PA",
+    "iso3": "PAN",
+    "m49": 591,
+    "nome": "Panamá",
+    "nomeEN": "Panama",
+    "nomeES": "Panamá",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "PG",
+    "iso3": "PNG",
+    "m49": 598,
+    "nome": "Papua Nova Guiné",
+    "nomeEN": "Papua New Guinea",
+    "nomeES": "Papua Nueva Guinea",
+    "subRegiao": "Melanésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "PK",
+    "iso3": "PAK",
+    "m49": 586,
+    "nome": "Paquistão",
+    "nomeEN": "Pakistan",
+    "nomeES": "Pakistán",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "PY",
+    "iso3": "PRY",
+    "m49": 600,
+    "nome": "Paraguai",
+    "nomeEN": "Paraguay",
+    "nomeES": "Paraguay",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "PE",
+    "iso3": "PER",
+    "m49": 604,
+    "nome": "Peru",
+    "nomeEN": "Peru",
+    "nomeES": "Perú",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "PL",
+    "iso3": "POL",
+    "m49": 616,
+    "nome": "Polônia",
+    "nomeEN": "Poland",
+    "nomeES": "Polonia",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "PT",
+    "iso3": "PRT",
+    "m49": 620,
+    "nome": "Portugal",
+    "nomeEN": "Portugal",
+    "nomeES": "Portugal",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "KE",
+    "iso3": "KEN",
+    "m49": 404,
+    "nome": "Quênia",
+    "nomeEN": "Kenya",
+    "nomeES": "Kenya",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "m49": 417,
+    "nome": "Quirguistão",
+    "nomeEN": "Kyrgyzstan",
+    "nomeES": "Kirguistán",
+    "subRegiao": "Ásia central",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "GB",
+    "iso3": "GBR",
+    "m49": 826,
+    "nome": "Reino Unido",
+    "nomeEN": "United Kingdom of Great Britain and Northern Ireland",
+    "nomeES": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "CF",
+    "iso3": "CAF",
+    "m49": 140,
+    "nome": "República Centro-Africana",
+    "nomeEN": "Central African Republic",
+    "nomeES": "República Centroafricana",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "KR",
+    "iso3": "KOR",
+    "m49": 410,
+    "nome": "República da Coreia",
+    "nomeEN": "Republic of Korea",
+    "nomeES": "República de Corea",
+    "subRegiao": "Ásia oriental (Leste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "CD",
+    "iso3": "COD",
+    "m49": 180,
+    "nome": "República Democrática do Congo",
+    "nomeEN": "Democratic Republic of the Congo",
+    "nomeES": "República Democrática del Congo",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "CG",
+    "iso3": "COG",
+    "m49": 178,
+    "nome": "República do Congo",
+    "nomeEN": "Congo",
+    "nomeES": "Congo",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "DO",
+    "iso3": "DOM",
+    "m49": 214,
+    "nome": "República Dominicana",
+    "nomeEN": "Dominican Republic",
+    "nomeES": "República Dominicana",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "KP",
+    "iso3": "PRK",
+    "m49": 408,
+    "nome": "República Popular Democrática da Coreia",
+    "nomeEN": "Democratic People's Republic of Korea",
+    "nomeES": "República Popular Democrática de Corea",
+    "subRegiao": "Ásia oriental (Leste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "m49": 203,
+    "nome": "República Tcheca",
+    "nomeEN": "Czechia",
+    "nomeES": "Chequia",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "RO",
+    "iso3": "ROU",
+    "m49": 642,
+    "nome": "Romênia",
+    "nomeEN": "Romania",
+    "nomeES": "Rumania",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "RW",
+    "iso3": "RWA",
+    "m49": 646,
+    "nome": "Ruanda",
+    "nomeEN": "Rwanda",
+    "nomeES": "Rwanda",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "RU",
+    "iso3": "RUS",
+    "m49": 643,
+    "nome": "Rússia (Federação Russa)",
+    "nomeEN": "Russian Federation",
+    "nomeES": "Federación de Rusia",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "WS",
+    "iso3": "WSM",
+    "m49": 882,
+    "nome": "Samoa",
+    "nomeEN": "Samoa",
+    "nomeES": "Samoa",
+    "subRegiao": "Polinésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "SM",
+    "iso3": "SMR",
+    "m49": 674,
+    "nome": "San Marino",
+    "nomeEN": "San Marino",
+    "nomeES": "San Marino",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "LC",
+    "iso3": "LCA",
+    "m49": 662,
+    "nome": "Santa Lúcia",
+    "nomeEN": "Saint Lucia",
+    "nomeES": "Santa Lucía",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "KN",
+    "iso3": "KNA",
+    "m49": 659,
+    "nome": "São Cristóvão e Nevis",
+    "nomeEN": "Saint Kitts and Nevis",
+    "nomeES": "Saint Kitts y Nevis",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "ST",
+    "iso3": "STP",
+    "m49": 678,
+    "nome": "São Tomé e Príncipe",
+    "nomeEN": "Sao Tome and Principe",
+    "nomeES": "Santo Tomé y Príncipe",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "VC",
+    "iso3": "VCT",
+    "m49": 670,
+    "nome": "São Vicente e Granadinas",
+    "nomeEN": "Saint Vincent and the Grenadines",
+    "nomeES": "San Vicente y las Granadinas",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "SC",
+    "iso3": "SYC",
+    "m49": 690,
+    "nome": "Seichelles",
+    "nomeEN": "Seychelles",
+    "nomeES": "Seychelles",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "SN",
+    "iso3": "SEN",
+    "m49": 686,
+    "nome": "Senegal",
+    "nomeEN": "Senegal",
+    "nomeES": "Senegal",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "SL",
+    "iso3": "SLE",
+    "m49": 694,
+    "nome": "Serra Leoa",
+    "nomeEN": "Sierra Leone",
+    "nomeES": "Sierra Leona",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "RS",
+    "iso3": "SRB",
+    "m49": 688,
+    "nome": "Sérvia",
+    "nomeEN": "Serbia",
+    "nomeES": "Serbia",
+    "subRegiao": "Europa meridional  (Sul da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "SG",
+    "iso3": "SGP",
+    "m49": 702,
+    "nome": "Singapura",
+    "nomeEN": "Singapore",
+    "nomeES": "Singapur",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "SY",
+    "iso3": "SYR",
+    "m49": 760,
+    "nome": "Síria",
+    "nomeEN": "Syrian Arab Republic",
+    "nomeES": "República Árabe Siria",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "SO",
+    "iso3": "SOM",
+    "m49": 706,
+    "nome": "Somália",
+    "nomeEN": "Somalia",
+    "nomeES": "Somalia",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "LK",
+    "iso3": "LKA",
+    "m49": 144,
+    "nome": "Sri Lanka",
+    "nomeEN": "Sri Lanka",
+    "nomeES": "Sri Lanka",
+    "subRegiao": "Ásia meridional (Sul da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "SD",
+    "iso3": "SDN",
+    "m49": 729,
+    "nome": "Sudão",
+    "nomeEN": "Sudan",
+    "nomeES": "Sudán",
+    "subRegiao": "África setentrional (Norte da África)",
+    "regiao": "África"
+  },
+  {
+    "iso2": "SS",
+    "iso3": "SSD",
+    "m49": 728,
+    "nome": "Sudão do Sul",
+    "nomeEN": "South Sudan",
+    "nomeES": "Sudán del Sur",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "SE",
+    "iso3": "SWE",
+    "m49": 752,
+    "nome": "Suécia",
+    "nomeEN": "Sweden",
+    "nomeES": "Suecia",
+    "subRegiao": "Europa setentrional (Norte da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "CH",
+    "iso3": "CHE",
+    "m49": 756,
+    "nome": "Suíça",
+    "nomeEN": "Switzerland",
+    "nomeES": "Suiza",
+    "subRegiao": "Europa ocidental (Oeste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "SR",
+    "iso3": "SUR",
+    "m49": 740,
+    "nome": "Suriname",
+    "nomeEN": "Suriname",
+    "nomeES": "Suriname",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "m49": 762,
+    "nome": "Tadjiquistão",
+    "nomeEN": "Tajikistan",
+    "nomeES": "Tayikistán",
+    "subRegiao": "Ásia central",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "TH",
+    "iso3": "THA",
+    "m49": 764,
+    "nome": "Tailândia",
+    "nomeEN": "Thailand",
+    "nomeES": "Tailandia",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "m49": 834,
+    "nome": "Tanzânia",
+    "nomeEN": "United Republic of Tanzania",
+    "nomeES": "República Unida de Tanzanía",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "TL",
+    "iso3": "TLS",
+    "m49": 626,
+    "nome": "Timor-Leste",
+    "nomeEN": "Timor-Leste",
+    "nomeES": "Timor-Leste",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "TG",
+    "iso3": "TGO",
+    "m49": 768,
+    "nome": "Togo",
+    "nomeEN": "Togo",
+    "nomeES": "Togo",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "TO",
+    "iso3": "TON",
+    "m49": 776,
+    "nome": "Tonga",
+    "nomeEN": "Tonga",
+    "nomeES": "Tonga",
+    "subRegiao": "Polinésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "TT",
+    "iso3": "TTO",
+    "m49": 780,
+    "nome": "Trinidad e Tobago",
+    "nomeEN": "Trinidad and Tobago",
+    "nomeES": "Trinidad y Tabago",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "TN",
+    "iso3": "TUN",
+    "m49": 788,
+    "nome": "Tunísia",
+    "nomeEN": "Tunisia",
+    "nomeES": "Túnez",
+    "subRegiao": "África setentrional (Norte da África)",
+    "regiao": "África"
+  },
+  {
+    "iso2": "TM",
+    "iso3": "TKM",
+    "m49": 795,
+    "nome": "Turcomenistão",
+    "nomeEN": "Turkmenistan",
+    "nomeES": "Turkmenistán",
+    "subRegiao": "Ásia central",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "TR",
+    "iso3": "TUR",
+    "m49": 792,
+    "nome": "Turquia",
+    "nomeEN": "Turkey",
+    "nomeES": "Turquía",
+    "subRegiao": "Ásia ocidental  (Oeste da Ásia)",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "TV",
+    "iso3": "TUV",
+    "m49": 798,
+    "nome": "Tuvalu",
+    "nomeEN": "Tuvalu",
+    "nomeES": "Tuvalu",
+    "subRegiao": "Polinésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "UA",
+    "iso3": "UKR",
+    "m49": 804,
+    "nome": "Ucrânia",
+    "nomeEN": "Ukraine",
+    "nomeES": "Ucrania",
+    "subRegiao": "Europa oriental (Leste da Europa)",
+    "regiao": "Europa"
+  },
+  {
+    "iso2": "UG",
+    "iso3": "UGA",
+    "m49": 800,
+    "nome": "Uganda",
+    "nomeEN": "Uganda",
+    "nomeES": "Uganda",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "UY",
+    "iso3": "URY",
+    "m49": 858,
+    "nome": "Uruguai",
+    "nomeEN": "Uruguay",
+    "nomeES": "Uruguay",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "m49": 860,
+    "nome": "Uzbequistão",
+    "nomeEN": "Uzbekistan",
+    "nomeES": "Uzbekistán",
+    "subRegiao": "Ásia central",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "VU",
+    "iso3": "VUT",
+    "m49": 548,
+    "nome": "Vanuatu",
+    "nomeEN": "Vanuatu",
+    "nomeES": "Vanuatu",
+    "subRegiao": "Melanésia",
+    "regiao": "Oceania"
+  },
+  {
+    "iso2": "VE",
+    "iso3": "VEN",
+    "m49": 862,
+    "nome": "Venezuela",
+    "nomeEN": "Venezuela",
+    "nomeES": "Venezuela",
+    "subRegiao": "América Latina e Caribe",
+    "regiao": "América"
+  },
+  {
+    "iso2": "VN",
+    "iso3": "VNM",
+    "m49": 704,
+    "nome": "Vietnã",
+    "nomeEN": "Viet Nam",
+    "nomeES": "Viet Nam",
+    "subRegiao": "Sudeste da Ásia",
+    "regiao": "Ásia"
+  },
+  {
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "m49": 894,
+    "nome": "Zâmbia",
+    "nomeEN": "Zambia",
+    "nomeES": "Zambia",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  },
+  {
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "m49": 716,
+    "nome": "Zimbábue",
+    "nomeEN": "Zimbabwe",
+    "nomeES": "Zimbabwe",
+    "subRegiao": "África subsaariana",
+    "regiao": "África"
+  }
+]
